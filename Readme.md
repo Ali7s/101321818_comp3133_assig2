@@ -1,24 +1,22 @@
-README - COMP3133 Assignment 2 Submission
-
-Student Name: Darya Mansouri  
-Student ID: 101394900
-
+README - COMP3133 Assignment 2 
+Student ID: 101321818
+Student Name: Ali Mousavi Roozbahani  
 ---
 
 🔗 LINKS
 
 1. **Frontend (Vercel):**  
-https://101394900comp3133-assignment2-<your-id>.vercel.app
+https://101321818comp3133assignment2-l58l9ijz9-ali7s-projects-4351a15d.vercel.app
 
 2. **Backend (Railway):**  
-https://101394900comp3133assignment2-production.up.railway.app/graphql
+https://comp3133101321818assignment2-production.up.railway.app/graphql
 
 3. **GitHub Repository:**  
-https://github.com/daryamn88/101394900_comp3133_assignment2
+https://github.com/Ali7s/101321818_comp3133_assig2
 
 ---
 
-📦 FEATURES IMPLEMENTED
+📦 FEATURES 
 
 ✔ Backend and Frontend deployed to Railway and Vercel  
 ✔ Signup, Login, and Logout implemented with GraphQL  
